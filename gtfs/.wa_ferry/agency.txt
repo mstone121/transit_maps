@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+WSF,Washington State Ferries,http://www.wsdot.wa.gov/ferries/,America/Los_Angeles,en

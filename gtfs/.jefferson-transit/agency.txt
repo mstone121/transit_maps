@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+jta,Jefferson Transit Authority,http://www.jeffersontransit.com,America/Los_Angeles,en,(800) 371-0497,http://www.jeffersontransit.com/fares.html

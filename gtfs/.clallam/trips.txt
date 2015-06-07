@@ -1,0 +1,313 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+Rt30,mtwtf,30E_T01,Commuter to Sequim,0,30_2,30toSequim
+Rt30,mtwtf,30E_T02,Commuter to Sequim,0,30_3,30toSequim
+Rt30,mtwtf,30E_T03,Commuter to Sequim,0,30_4,30toSequim
+Rt30,mtwtf,30E_T04,Commuter to Sequim,0,30_5,30toSequim
+Rt30,mtwtf,30E_T05,Commuter to Sequim,0,30_6,30toSequim
+Rt30,mtwtf,30E_T06,Commuter to Sequim,0,30_7,30toSequim
+Rt30,mtwtf,30E_T07,Commuter to Sequim,0,30_8,30toSequim
+Rt30,mtwtf,30E_T08,Commuter to Sequim,0,30_9,30toSequim
+Rt30,mtwtf,30E_T09,Commuter to Sequim,0,30_10,30toSequim
+Rt30,mtwtf,30E_T10,Commuter to Sequim,0,30_11,30toSequim
+Rt30,mtwtf,30E_T11,Commuter to Sequim,0,30_12,30toSequim
+Rt30,mtwtf,30E_T12,Commuter to Sequim,0,30_13,30toSequim
+Rt30,mtwtf,30E_T13,Commuter to Sequim,0,30_14,30toSequim
+Rt30,mtwtf,30E_T14,Commuter to Sequim,0,30_15,30toSequim
+Rt30,mtwtf,30E_T15,Commuter to Sequim,0,30_16,30toSequim
+Rt30,mtwtf,30E_T16,Commuter to Sequim,0,,30toSequim
+Rt30,mtwtf,30E_T17,Commuter to Sequim,0,,30toSequim
+Rt30,mtwtf,30E_T18,Commuter to Sequim,0,30_16,30toSequim
+Rt30,mtwtf,30E_T19,Commuter to Sequim,0,,30toSequim
+Rt30,mtwtf,30E_T20,Commuter to Sequim,0,,30toSequim
+Rt30,mtwtf,30E_T21,Commuter to Sequim,0,30_20,30toSequim
+Rt30,mtwtf,30E_T22,Commuter to Sequim,0,30_21,30toSequim
+Rt30,mtwtf,30E_T23,Commuter to Sequim,0,30_22,30toSequim
+Rt30,mtwtf,30W_T01,Commuter to Port Angeles,1,30_1,30toPA
+Rt30,mtwtf,30W_T02,Commuter to Port Angeles,1,30_2,30toPA
+Rt30,mtwtf,30W_T03,Commuter to Port Angeles,1,30_3,30toPA
+Rt30,mtwtf,30W_T04,Commuter to Port Angeles,1,30_4,30toPA
+Rt30,mtwtf,30W_T05,Commuter to Port Angeles,1,30_5,30toPA
+Rt30,mtwtf,30W_T06,Commuter to Port Angeles,1,30_6,30toPA
+Rt30,mtwtf,30W_T07,Commuter to Port Angeles,1,30_7,30toPA
+Rt30,mtwtf,30W_T08,Commuter to Port Angeles,1,30_8,30toPA
+Rt30,mtwtf,30W_T09,Commuter to Port Angeles,1,30_9,30toPA
+Rt30,mtwtf,30W_T10,Commuter to Port Angeles,1,30_10,30toPA
+Rt30,mtwtf,30W_T11,Commuter to Port Angeles,1,30_11,30toPA
+Rt30,mtwtf,30W_T12,Commuter to Port Angeles,1,30_12,30toPA
+Rt30,mtwtf,30W_T13,Commuter to Port Angeles,1,30_13,30toPA
+Rt30,mtwtf,30W_T14,Commuter to Port Angeles,1,30_14,30toPA
+Rt30,mtwtf,30W_T15,Commuter to Port Angeles,1,30_15,30toPA
+Rt30,mtwtf,30W_T16,Commuter to Port Angeles,1,30_16,30toPA
+Rt30,mtwtf,30W_T17,Commuter to Port Angeles,1,30_17,30toPA
+Rt30,mtwtf,30W_T18,Commuter to Port Angeles,1,30_18,30toPA
+Rt30,mtwtf,30W_T19,Commuter to Port Angeles,1,,30toPA
+Rt30,mtwtf,30W_T20,Commuter to Port Angeles,1,30_20,30toPA
+Rt30,mtwtf,30W_T21,Commuter to Port Angeles,1,30_21,30toPA
+Rt30,mtwtf,30W_T22,Commuter to Port Angeles,1,30_22,30toPA
+Rt30,sat,30Es_T01,Commuter to Sequim,0,30_50,30toSequim
+Rt30,sat,30Es_T02,Commuter to Sequim,0,30_51,30toSequim
+Rt30,sat,30Es_T03,Commuter to Sequim,0,30_52,30toSequim
+Rt30,sat,30Es_T04,Commuter to Sequim,0,30_53,30toSequim
+Rt30,sat,30Es_T05,Commuter to Sequim,0,30_54,30toSequim
+Rt30,sat,30Es_T06,Commuter to Sequim,0,30_55,30toSequim
+Rt30,sat,30Es_T07,Commuter to Sequim,0,30_56,30toSequim
+Rt30,sat,30Es_T08,Commuter to Sequim,0,30_57,30toSequim
+Rt30,sat,30Es_T09,Commuter to Sequim,0,30_58,30toSequim
+Rt30,sat,30Es_T10,Commuter to Sequim,0,30_59,30toSequim
+Rt30,sat,30Es_T11,Commuter to Sequim,0,30_60,30toSequim
+Rt30,sat,30Es_T12,Commuter to Sequim,0,30_61,30toSequim
+Rt30,sat,30Es_T13,Commuter to Sequim,0,30_62,30toSequim
+Rt30,sat,30Ws_T01,Commuter to Port Angeles,1,30_50,30toPA
+Rt30,sat,30Ws_T02,Commuter to Port Angeles,1,30_51,30toPA
+Rt30,sat,30Ws_T03,Commuter to Port Angeles,1,30_52,30toPA
+Rt30,sat,30Ws_T04,Commuter to Port Angeles,1,30_53,30toPA
+Rt30,sat,30Ws_T05,Commuter to Port Angeles,1,30_54,30toPA
+Rt30,sat,30Ws_T06,Commuter to Port Angeles,1,30_55,30toPA
+Rt30,sat,30Ws_T07,Commuter to Port Angeles,1,30_56,30toPA
+Rt30,sat,30Ws_T08,Commuter to Port Angeles,1,30_57,30toPA
+Rt30,sat,30Ws_T09,Commuter to Port Angeles,1,30_58,30toPA
+Rt30,sat,30Ws_T10,Commuter to Port Angeles,1,30_59,30toPA
+Rt30,sat,30Ws_T11,Commuter to Port Angeles,1,30_60,30toPA
+Rt30,sat,30Ws_T12,Commuter to Port Angeles,1,30_61,30toPA
+Rt30,sat,30Ws_T13,Commuter to Port Angeles,1,30_62,30toPA
+Rt52,mtwtf,52E_T01,Jamestown Tribal Center/Beach Road,0,52_1,52_2Diamond
+Rt52,mtwtf,52E_T02,Jamestown Tribal Center/Beach Road,0,52_2,52_2Diamond
+Rt52,mtwtf,52E_T03,Jamestown Tribal Center/Beach Road,0,52_3,52_2Diamond
+Rt52,mtwtf,52W_T01,Sequim,1,52_1,52_2Sequim
+Rt52,mtwtf,52W_T02,Sequim,1,52_2,52_2Sequim
+Rt52,mtwtf,52W_T03,Sequim,1,52_3,52_2Sequim
+Rt40,mtwtf,40_T01,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T02,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T03,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T04,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T05,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T06,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T07,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T08,In-town Shuttle,0,,40
+Rt40,mtwtf,40_T09,In-town Shuttle,0,,40
+Rt20,mtwtf,20_T01,College / Medical Center,0,20_1,20
+Rt20,mtwtf,20_T02,College / Medical Center,0,20_2,20
+Rt20,mtwtf,20_T03,College / Medical Center,0,20_3,20
+Rt20,mtwtf,20_T04,College / Medical Center,0,20_4,20
+Rt20,mtwtf,20_T05,College / Medical Center,0,20_7,20
+Rt20,mtwtf,20_T06,College / Medical Center,0,20_8,20
+Rt20,mtwtf,20_T07,College / Medical Center,0,20_10,20
+Rt20,mtwtf,20_T08,College / Medical Center,0,20_11,20
+Rt20,mtwtf,20_T09,College / Medical Center,0,20_12,20
+Rt20,mtwtf,20_T10,College / Medical Center,0,20_13,20
+Rt20,mtwtf,20_T11,College / Medical Center,0,20_14,20
+Rt20,mtwtf,20_T12,College / Medical Center,0,20_15,20
+Rt20,mtwtf,20_T13,College / Medical Center,0,20_16,20
+Rt20,mtwtf,20_T14,College / Medical Center,0,20_18,20
+Rt20,mtwtf,20_T15,College / Medical Center,0,20_19,20
+Rt20,mtwtf,20_T16,College / Medical Center,0,20_20,20
+Rt20,mtwtf,20_T17,College / Medical Center,0,20_22,20
+Rt20,mtwtf,20_T18,College / Medical Center,0,20_23,20
+Rt20,mtwtf,20_T19,College / Medical Center,0,20_24,20
+Rt20,mtwtf,20_T20,College / Medical Center,0,20_25,20
+Rt20,mtwtf,20_T21,College / Medical Center,0,20_26,20
+Rt20,mtwtfs,20Melody_T01,College / Medical Center,0,20_5,20+Melody
+Rt20,mtwtfs,20Melody_T02,College / Medical Center,0,20_9,20+Melody
+Rt20,mtwtfs,20Melody_T03,College / Medical Center,0,20_17,20+Melody
+Rt20,mtwtfs,20Melody_T04,College / Medical Center,0,20_21,20+Melody
+Rt20,sat,20s_T01,College /  Medical Center,0,20_27,20
+Rt20,sat,20s_T02,College /  Medical Center,0,20_28,20
+Rt20,sat,20s_T03,College /  Medical Center,0,20_29,20
+Rt20,sat,20s_T04,College /  Medical Center,0,20_30,20
+Rt20,sat,20s_T05,College /  Medical Center,0,20_31,20
+Rt20,sat,20s_T06,College /  Medical Center,0,20_32,20
+Rt20,sat,20s_T07,College /  Medical Center,0,20_33,20
+Rt22,mtwtf,22_T01,Library / Courthouse,0,22_1,22
+Rt22,mtwtf,22_T02,Library / Courthouse,0,22_2,22
+Rt22,mtwtf,22_T03,Library / Courthouse,0,22_3,22
+Rt22,mtwtf,22_T04,Library / Courthouse,0,22_4,22
+Rt22,mtwtf,22_T05,Library / Courthouse,0,22_5,22
+Rt22,mtwtf,22_T06,Library / Courthouse,0,22_6,22
+Rt22,mtwtf,22_T07,Library / Courthouse,0,22_7,22
+Rt22,mtwtf,22_T08,Library / Courthouse,0,22_8,22
+Rt22,mtwtf,22_T09,Library / Courthouse,0,22_9,22
+Rt22,mtwtf,22_T10,Library / Courthouse,0,22_10,22
+Rt22,mtwtf,22_T11,Library / Courthouse,0,22_11,22
+Rt22,mtwtf,22_T12,Library / Courthouse,0,22_12,22
+Rt22,mtwtf,22_T13,Library / Courthouse,0,22_13,22
+Rt22,mtwtf,22_T14,Library / Courthouse,0,22_14,22
+Rt22,mtwtf,22_T15,Library / Courthouse,0,22_15,22
+Rt22,mtwtf,22_T16,Library / Courthouse,0,22_16,22
+Rt22,mtwtf,22_T17,Library / Courthouse,0,22_17,22
+Rt22,mtwtf,22_T18,Library / Courthouse,0,22_18,22
+Rt22,mtwtf,22_T19,Library / Courthouse,0,22_19,22
+Rt22,mtwtf,22_T20,Library / Courthouse,0,22_20,22
+Rt22,mtwtf,22_T21,Library / Courthouse,0,22_21,22
+Rt22,mtwtf,22_T22,Library / Courthouse,0,22_22,22
+Rt22,mtwtf,22_T23,Library / Courthouse,0,22_23,22
+Rt22,mtwtf,22_T24,Library / Courthouse,0,22_24,22
+Rt22,sat,22s_T01,Library / Courthouse,0,22_26,22
+Rt22,sat,22s_T02,Library / Courthouse,0,22_27,22
+Rt22,sat,22s_T03,Library / Courthouse,0,22_28,22
+Rt22,sat,22s_T04,Library / Courthouse,0,22_29,22
+Rt22,sat,22s_T05,Library / Courthouse,0,22_30,22
+Rt22,sat,22s_T06,Library / Courthouse,0,22_31,22
+Rt22,sat,22s_T07,Library / Courthouse,0,22_32,22
+Rt22,sat,22s_T08,Library / Courthouse,0,22_33,22
+Rt22,sat,22s_T09,Library / Courthouse,0,22_34,22
+Rt22,sat,22s_T10,Library / Courthouse,0,22_35,22
+Rt22,sat,22s_T11,Library / Courthouse,0,22_36,22
+Rt24,mtwtf,24_T01,Fairgrounds,0,24_2,24
+Rt24,mtwtf,24_T02,Fairgrounds,0,24_3,24
+Rt24,mtwtf,24_T03,Fairgrounds,0,24_4,24
+Rt24,mtwtf,24_T04,Fairgrounds,0,24_5,24
+Rt24,mtwtf,24_T05,Fairgrounds,0,24_6,24
+Rt24,mtwtf,24_T06,Fairgrounds,0,24_7,24
+Rt24,mtwtf,24_T07,Fairgrounds,0,24_8,24
+Rt24,mtwtf,24_T08,Fairgrounds,0,24_9,24
+Rt24,mtwtf,24_T09,Fairgrounds,0,24_10,24
+Rt24,mtwtf,24_T10,Fairgrounds,0,24_11,24
+Rt24,mtwtf,24_T11,Fairgrounds,0,24_12,24
+Rt24,mtwtf,24_T12,Fairgrounds,0,24_13,24
+Rt24,mtwtf,24_T13,Fairgrounds,0,24_14,24
+Rt24,mtwtf,24_T14,Fairgrounds,0,24_15,24
+Rt24,mtwtf,24_T15,Fairgrounds,0,24_16,24
+Rt24,mtwtf,24_T16,Fairgrounds,0,24_17,24
+Rt24,mtwtf,24_T17,Fairgrounds,0,24_18,24
+Rt24,mtwtf,24_T18,Fairgrounds,0,24_19,24
+Rt24,mtwtf,24_T19,Fairgrounds,0,24_20,24
+Rt24,mtwtf,24_T20,Fairgrounds,0,24_21,24
+Rt24,mtwtf,24_T21,Fairgrounds,0,24_22,24
+Rt24,mtwtf,24_T22,Fairgrounds,0,24_23,24
+Rt24,mtwtf,24_T23,Fairgrounds,0,24_24,24
+Rt24,mtwtf,24_T24,Fairgrounds,0,24_25,24
+Rt24,mtwtf,24_T25,Fairgrounds,0,24_26,24
+Rt24,sat,24s_T01,Fairgrounds,0,24_26,24
+Rt24,sat,24s_T02,Fairgrounds,0,24_27,24
+Rt24,sat,24s_T03,Fairgrounds,0,24_28,24
+Rt24,sat,24s_T04,Fairgrounds,0,24_29,24
+Rt24,sat,24s_T05,Fairgrounds,0,24_30,24
+Rt24,sat,24s_T06,Fairgrounds,0,24_31,24
+Rt24,sat,24s_T07,Fairgrounds,0,24_32,24
+Rt24,sat,24s_T08,Fairgrounds,0,24_33,24
+Rt24,sat,24s_T09,Fairgrounds,0,24_34,24
+Rt24,sat,24s_T10,Fairgrounds,0,24_35,24
+Rt24,sat,24s_T11,Fairgrounds,0,24_36,24
+Rt26,mtwtf,26Elwha_T01,18th,0,26_1,26_elwha
+Rt26,mtwtf,26Elwha_T02,18th,0,26_4,26_elwha
+Rt26,mtwtf,26Elwha_T03,18th,0,26_7,26_elwha
+Rt26,mtwtf,26Elwha_T04,18th,0,26_10,26_elwha
+Rt26,mtwtf,26Elwha_T05,18th,0,26_13,26_elwha
+Rt26,mtwtf,26Elwha_T06,18th,0,,26_elwha
+Rt26,mtwtf,26Elwha_T07,18th,0,26_18,26_elwha
+Rt26,mtwtf,26_T01,18th,0,26_2,26
+Rt26,mtwtf,26_T02,18th,0,26_3,26
+Rt26,mtwtf,26_T03,18th,0,26_5,26
+Rt26,mtwtf,26_T04,18th,0,26_6,26
+Rt26,mtwtf,26_T05,18th,0,26_8,26
+Rt26,mtwtf,26_T06,18th,0,26_9,26
+Rt26,mtwtf,26_T07,18th,0,26_11,26
+Rt26,mtwtf,26_T08,18th,0,26_12,26
+Rt26,mtwtf,26_T09,18th,0,26_14,26
+Rt26,mtwtf,26_T10,18th,0,26_15,26
+Rt26,mtwtf,26_T11,18th,0,26_17,26
+Rt26,sat,26sElwha_T01,Elwha Tribal Center,0,26_22,26_elwha
+Rt26,sat,26sElwha_T02,Elwha Tribal Center,0,26_25,26_elwha
+Rt26,sat,26sElwha_T03,Elwha Tribal Center,0,26_28,26_elwha
+Rt26,sat,26sElwha_T04,Elwha Tribal Center,0,26_31,26_elwha
+Rt26,sat,26s_T01,18th,0,26_20,26
+Rt26,sat,26s_T02,18th,0,26_21,26
+Rt26,sat,26s_T03,18th,0,26_23,26
+Rt26,sat,26s_T04,18th,0,26_24,26
+Rt26,sat,26s_T05,18th,0,26_26,26
+Rt26,sat,26s_T06,18th,0,26_27,26
+Rt26,sat,26s_T07,18th,0,26_29,26
+Rt26,sat,26s_T08,18th,0,26_30,26
+Rt10,mtwtf,10WNSK_T01,Joyce via NS'Klallam,0,10_2,10toElwha+Joyce
+Rt10,mtwtf,10WNSK_T02,Joyce via NS'Klallam,0,10_3,10toElwha+Joyce
+Rt10,mtwtf,10WNSK_T03,Joyce via NS'Klallam,0,10_4,10toElwha+Joyce
+Rt10,mtwtf,10WNSK_T04,Joyce via NS'Klallam,0,10_5,10toElwha+Joyce
+Rt10,10_mtwtf_school,10EPAHS_T01,Port Angeles,1,10_1,10PA+PAHS
+Rt10,mtwtf,10ENSK_T01,Port Angeles via N'Sklallam,1,10_2,10PAviaElwha
+Rt10,mtwtf,10E_T01,Port Angeles,1,10_3,10toPA
+Rt10,mtwtf,10E_T02,Port Angeles,1,10_4,10toPA
+Rt10,mtwtf,10ECTS_T01,Port Angeles,1,10_5,10toPA
+Rt10,sat,10Ws_T01,Camp Hayden/Lyre River,0,10_6,10toJoyce
+Rt10,sat,10Ws_T02,Camp Hayden/Lyre River,0,10_7,10toJoyce
+Rt10,sat,10WsNSK_T01,Tribal Center NS'Klallam,0,10_8,10toElwha+Joyce
+Rt10,sat,10WsNSK_T02,Tribal Center NS'Klallam,0,10_9,10toElwha+Joyce
+Rt10,sat,10EsNSK_T01,Tribal Center NS'Klallam,1,10_6,10PAviaElwha
+Rt10,sat,10EsNSK_T02,Tribal Center NS'Klallam,1,10_7,10PAviaElwha
+Rt10,sat,10Es_T01,Port Angeles,1,10_8,10toPA
+Rt10,sat,10Es_T02,Port Angeles,1,10_9,10toPA
+Rt14,14_mtwtf_school,14WPC_T01,West End via Pen College,0,14_30,14toPC+Forks
+Rt14,14_mtwtf_school,14WPC_T02,West End via Pen College,0,14_31,14toPC+Forks
+Rt14,14_mtwtf_school,14WPC_T03,West End via Pen College,0,14_32,14toPC+Forks
+Rt14,14_mtwtf_school,14WPC_T04,West End via Pen College,0,14_33,14toPC+Forks
+Rt14,mtwtf_14_summer,14W_pm_T01,Lake Crescent/West End,0,,14_Forks_noPC
+Rt14,mtwtf_14_summer,14W_pm_T02,Lake Crescent/West End,0,,14_Forks_noPC
+Rt14,mtwtf_14_summer,14W_pm_T03,Lake Crescent/West End,0,,14_Forks_noPC
+Rt14,mtwtf_14_summer,14W_pm_T04,Lake Crescent/West End,0,,14_Forks_noPC
+Rt14,mtwtf,14W_T01,Lake Crescent/West End,0,14_1,14toForks
+Rt14,mtwtf,14W_T02,Lake Crescent/West End,0,14_2,14toForks
+Rt14,mtwtf,14W_T03,Lake Crescent/West End,0,14_3,14toForks
+Rt14,mtwtf,14W_T04,Lake Crescent/West End,0,14_4,14toForks
+Rt14,sat,14Ws_T01,Lake Crescent/West End,0,14_9,14toForks
+Rt14,sat,14Ws_T02,Lake Crescent/West End,0,14_10,14toForks
+Rt14,sat,14Ws_T03,Lake Crescent/West End,0,14_11,14toForks
+Rt14,sat,14Ws_T04,Lake Crescent/West End,0,14_12,14toForks
+Rt14,mtwtf,14E_T01,Port Angeles,1,,14toPA
+Rt14,mtwtf,14E_T02,Port Angeles,1,14_1,14toPA
+Rt14,mtwtf,14E_T03,Port Angeles,1,14_2,14toPA
+Rt14,mtwtf,14E_T04,Port Angeles,1,14_3,14toPA
+Rt14,mtwtf,14E_T05,Port Angeles,1,14_4,14toPA
+Rt14,mtwtf,14E+forksHosp_T01,Port Angeles,1,14_30,14_PA+ForksHospital
+Rt14,mtwtf,14E+forksHosp_T02,Port Angeles,1,14_31,14_PA+ForksHospital
+Rt14,mtwtf,14E+forksHosp_T03,Port Angeles,1,14_32,14_PA+ForksHospital
+Rt14,mtwtf,14E+forksHosp_T04,Port Angeles,1,14_33,14_PA+ForksHospital
+Rt14,mtwtf,14Es+forksHosp_T01,Port Angeles,1,14_11,14_PA+ForksHospital
+Rt14,mtwtf,14Es+forksHosp_T02,Port Angeles,1,14_12,14_PA+ForksHospital
+Rt14,sat,14Es_T01,Port Angeles,1,14_9,14toPA
+Rt14,sat,14Es_T02,Port Angeles,1,14_10,14toPA
+Rt17,mtwtf,17_T01,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T02,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T03,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T05,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T06,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T07,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T08,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T09,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T10,In-town Shuttle,0,17_a,17
+Rt17,mtwtf,17_T11,In-town Shuttle,0,17_a,17
+Rt17,sat,17s_T01,In-town Shuttle,0,17_12,17
+Rt17,sat,17s_T02,In-town Shuttle,0,17_13,17
+Rt17,sat,17s_T03,In-town Shuttle,0,17_14,17
+Rt17,sat,17s_T04,In-town Shuttle,0,17_15,17
+Rt17,sat,17s_T05,In-town Shuttle,0,17_16,17
+Rt17,sat,17s_T06,In-town Shuttle,0,17_17,17
+Rt17,sat,17s_T07,In-town Shuttle,0,17_18,17
+Rt17,sat,17s_T08,In-town Shuttle,0,17_19,17
+Rt17,sat,17s_T09,In-town Shuttle,0,17_20,17
+Rt16,mtwtf,16WNBCC_T01,Neah Bay via Corrections,0,16_1,16Corrections+NeahBay
+Rt16,mtwtf,16W_T01,Neah Bay,0,16_2,16toNeahBay
+Rt16,mtwtf,16W_T02,Neah Bay,0,16_3,16toNeahBay
+Rt16,sat,16Ws_T01,Neah Bay,0,16_6,16toNeahBay
+Rt16,sat,16Ws_T02,Neah Bay,0,16_7,16toNeahBay
+Rt16,mtwtf,16E_T01,Forks via Sappho,1,16_1,16NeahBaytoForks
+Rt16,mtwtf,16E_T02,Forks via Sappho,1,16_2,16NeahBaytoForks
+Rt16,mtwtf,16E_T03,Forks via Sappho,1,16_3,16NeahBaytoForks
+Rt16,mtwtf,16WCBCC_T01,Clallam Bay via Correction Ctr,1,16_60,16Corrections+NeahBay
+Rt16,mtwtf,16ECB_T01,Forks via Sappho,1,16_61,16NeahBaytoForks
+Rt16,sat,16Es_T01,Forks via Sappho,1,16_6,16NeahBaytoForks
+Rt16,sat,16Es_T02,Forks via Sappho,1,16_7,16NeahBaytoForks
+Rt15,mtwtf,15W_T01,LaPush,0,17_a,15W
+Rt15,mtwtf,15W_T02,LaPush,0,17_a,15W
+Rt15,sat,15Ws_T01,LaPush,0,15_4,15W
+Rt15,sat,15Ws_T02,LaPush,0,15_5,15W
+Rt15,mtwtf,15E_T01,Forks,1,17_a,15
+Rt15,mtwtf,15E_T02,Forks,1,17_a,15
+Rt15,sat,15Es_T01,Forks,1,15_4,15
+Rt15,sat,15Es_T02,Forks,1,15_5,15
+Rt50,mtwtf,50E_T01,Jamestown Tribal Center Campus,0,50_1,50toJST
+Rt50,mtwtf,50E_T02,Jamestown Tribal Center Campus,0,50_2,50toJST
+Rt50,mtwtf,50E_T03,Jamestown Tribal Center Campus,0,50_3,50toJST
+Rt50,mtwtf,50E_T04,Jamestown Tribal Center Campus,0,50_4,50toJST
+Rt50,mtwtf,50W_T01,Sequim,1,50_1,50toSequim
+Rt50,mtwtf,50W_T02,Sequim,1,50_2,50toSequim
+Rt50,mtwtf,50W_T03,Sequim,1,50_3,50toSequim
+Rt50,mtwtf,50W_T04,Sequim,1,50_4,50toSequim

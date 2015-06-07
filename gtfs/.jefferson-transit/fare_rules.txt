@@ -1,0 +1,6 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+150,,1,1,
+150,,1,2,
+5,,3,3,
+250,,2,1,
+250,,2,2,

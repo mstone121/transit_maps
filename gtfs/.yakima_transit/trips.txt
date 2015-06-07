@@ -1,0 +1,375 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id
+1,Sunday,R1Sun_T05,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T06,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T07,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T08,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T09,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T10,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T11,Summitview/Lincoln,0,,R1_14
+1,Sunday,R1Sun_T12,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T01,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T03,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T04,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T05,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T06,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T07,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T08,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T09,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T10,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T11,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T12,Summitview/Lincoln,0,,R1_14
+1,Weekday,R1weekday_T13,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T01,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T03,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T04,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T05,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T06,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T07,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T08,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T09,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T10,Summitview/Lincoln,0,,R1_14
+1,Saturday,1_Sat_T11,Summitview/Lincoln,0,,R1_14
+2,Weekday,R2weekday_T01,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T03,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T04,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T05,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T06,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T07,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T08,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T09,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T10,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T11,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T12,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T13,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T14,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T15,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T16,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T18,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T19,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T20,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T21,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T22,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T24,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T25,Tieton/Nob Hill,0,,2
+2,Weekday,R2weekday_T26,Tieton/Nob Hill,0,,2
+2,Mon,Mon_2_school_T01,0,1,,2
+2,school,Tue-Fri_2_school_T01,0,1,,2
+2,Saturday,R2sat_T01,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T03,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T04,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T05,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T06,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T07,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T08,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T09,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T10,Tieton/Nob Hill,0,76a,2
+2,Saturday,R2sat_T11,Tieton/Nob Hill,0,76a,2
+2,Sunday,R2sun_T01,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T03,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T04,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T05,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T06,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T07,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T08,Tieton/Nob Hill,0,77a,2
+2,Sunday,R2sun_T09,Tieton/Nob Hill,0,77a,2
+3,Weekday,R3weekday_T01,,0,,3_0613
+3,Weekday,R3weekday_T03,,0,,3_0613
+3,Weekday,R3weekday_T04,,0,,3_0613
+3,Weekday,R3weekday_T05,,0,,3_0613
+3,Weekday,R3weekday_T06,,0,,3_0613
+3,Weekday,R3weekday_T07,,0,,3_0613
+3,Weekday,R3weekday_T08,,0,,3_0613
+3,Weekday,R3weekday_T09,,0,,3_0613
+3,Weekday,R3weekday_T10,,0,,3_0613
+3,Weekday,R3weekday_T11,,0,,3_0613
+3,Weekday,R3weekday_T12,,0,,3_0613
+3,Weekday,R3weekday_T13,,0,,3_0613
+3,Mon,R3Mon_school_T01,0,0,,3_0613
+3,school,R3_twtf_school_T01,0,0,,3_0613
+3,Saturday,R3Sat_T01,,0,,3_0613
+3,Saturday,R3Sat_T03,0,0,,3_0613
+3,Saturday,R3Sat_T04,0,0,,3_0613
+3,Saturday,R3Sat_T05,0,0,,3_0613
+3,Saturday,R3Sat_T06,0,0,,3_0613
+3,Saturday,R3Sat_T07,0,0,,3_0613
+3,Saturday,R3Sat_T08,0,0,,3_0613
+3,Saturday,R3Sat_T09,0,0,,3_0613
+3,Saturday,R3Sat_T10,0,0,,3_0613
+3,Saturday,R3Sat_T11,0,0,,3_0613
+4,Weekday,R4weekday_T01,,0,,4_0613
+4,Weekday,R4weekday_T03,,0,,4_0613
+4,Weekday,R4weekday_T04,,0,,4_0613
+4,Weekday,R4weekday_T05,,0,,4_0613
+4,Weekday,R4weekday_T06,,0,,4_0613
+4,Weekday,R4weekday_T07,,0,,4_0613
+4,Weekday,R4weekday_T08,,0,,4_0613
+4,Weekday,R4weekday_T09,,0,,4_0613
+4,Weekday,R4weekday_T10,,0,,4_0613
+4,Weekday,R4weekday_T11,,0,,4_0613
+4,Weekday,R4weekday_T12,,0,,4_0613
+4,Weekday,R4weekday_T13,,0,,4_0613
+4,Saturday,R4Satday_0613_T01,,0,,4_0613
+4,Saturday,R4Satday_0613_T03,,0,,4_0613
+4,Saturday,R4Satday_0613_T04,,0,,4_0613
+4,Saturday,R4Satday_0613_T05,,0,,4_0613
+4,Saturday,R4Satday_0613_T06,,0,,4_0613
+4,Saturday,R4Satday_0613_T07,,0,,4_0613
+4,Saturday,R4Satday_0613_T08,,0,,4_0613
+4,Saturday,R4Satday_0613_T09,,0,,4_0613
+4,Saturday,R4Satday_0613_T10,,0,,4_0613
+4,Saturday,R4Satday_0613_T11,,0,,4_0613
+4,Sunday,R4sunday_061713_T01,,0,,4_0613
+4,Sunday,R4sunday_061713_T03,,0,,4_0613
+4,Sunday,R4sunday_061713_T04,,0,,4_0613
+4,Sunday,R4sunday_061713_T05,,0,,4_0613
+4,Sunday,R4sunday_061713_T06,,0,,4_0613
+4,Sunday,R4sunday_061713_T07,,0,,4_0613
+4,Sunday,R4sunday_061713_T08,,0,,4_0613
+4,Sunday,R4sunday_061713_T09,,0,,4_0613
+5,Weekday,R5weekday_T01,Nob Hill/Tieton,0,,5_6am
+5,Weekday,R5weekday_T03,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T04,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T05,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T06,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T07,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T08,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T09,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T10,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T11,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T12,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T13,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T14,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T15,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T16,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T17,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T18,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T19,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T20,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T21,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T22,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T23,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T24,Nob Hill/Tieton,0,,5
+5,Weekday,R5weekday_T25,Nob Hill/Tieton,0,,5
+5,school,R5school_T01,,0,,5_school
+5,Saturday,R5sat_T01,,0,55a,5_6am
+5,Saturday,R5sat_T03,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T04,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T05,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T06,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T07,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T08,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T09,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T10,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T11,Nob Hill/Tieton,0,55a,5
+5,Saturday,R5sat_T12,Nob Hill/Tieton,0,55a,5_1815
+6,Weekday,R6Nweekday_0617_T01,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T03,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T04,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T05,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T06,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T07,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T08,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T09,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T10,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T11,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T12,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T13,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T14,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T15,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T16,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T17,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T18,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T19,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T20,N. 4th St.,1,,6_0613
+6,Weekday,R6Nweekday_0617_T21,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T03,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T04,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T05,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T06,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T07,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T08,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T09,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T10,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T11,N. 4th St.,1,,6_0613
+6,Saturday,R6NSat_0617_T12,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T03,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T04,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T05,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T06,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T07,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T08,N. 4th St.,1,,6_0613
+6,Sunday,R6NSun_0617_T09,N. 4th St.,1,,6_0613
+7,Weekday,R7weekday_T01,40th Ave./Washington,0,,7_6am
+7,Weekday,R7weekday_T03,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T04,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T05,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T06,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T07,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T08,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T10,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T12,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T14,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T15,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T16,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T17,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T18,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T19,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T20,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T21,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T22,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T23,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T24,40th Ave./Washington,0,,7
+7,Weekday,R7weekday_T25,40th Ave./Washington,0,,7_1815
+7,Saturday,R7sat_T01,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T03,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T04,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T05,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T06,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T07,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T08,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T09,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T10,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T11,40th Ave./Washington,0,,7
+7,Saturday,R7sat_T12,40th Ave./Washington,0,,7
+9,Weekday,R9weekday_T01,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T03,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T04,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T05,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T06,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T07,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T09,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T11,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T13,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T14,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T15,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T16,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T17,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T18,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T19,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T20,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T21,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T22,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T23,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T24,1st Street/Washington,0,,9
+9,Weekday,R9weekday_T25,1st Street/Washington,0,,9
+9,Saturday,R9sat_T01,1st Street/Washington,0,,9
+9,Saturday,R9sat_T03,1st Street/Washington,0,,9
+9,Saturday,R9sat_T04,1st Street/Washington,0,,9
+9,Saturday,R9sat_T05,1st Street/Washington,0,,9
+9,Saturday,R9sat_T06,1st Street/Washington,0,,9
+9,Saturday,R9sat_T07,1st Street/Washington,0,,9
+9,Saturday,R9sat_T08,1st Street/Washington,0,,9
+9,Saturday,R9sat_T09,1st Street/Washington,0,,9
+9,Saturday,R9sat_T10,1st Street/Washington,0,,9
+9,Sunday,R9sun_T01,1st Street/Washington,0,,9
+9,Sunday,R9sun_T03,1st Street/Washington,0,,9
+9,Sunday,R9sun_T04,1st Street/Washington,0,,9
+9,Sunday,R9sun_T05,1st Street/Washington,0,,9
+9,Sunday,R9sun_T06,1st Street/Washington,0,,9
+9,Sunday,R9sun_T07,1st Street/Washington,0,,9
+9,Sunday,R9sun_T08,1st Street/Washington,0,,9
+9,Sunday,R9sun_T09,1st Street/Washington,0,,9
+10,Sunday,10_sun_T03,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T04,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T05,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T06,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T07,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T08,North Yakima/Selah,0,,10
+10,Sunday,10_sun_T09,North Yakima/Selah,0,,10
+10,Sunday,10_Sun_1545_T03,North Yakima/Selah,0,,R10_1815_sat
+10,Weekday,R10weekday_noFiringRange_T04,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T05,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T06,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T07,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T08,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T09,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T10,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T11,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T12,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T13,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T14,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_noFiringRange_T15,North Yakima/Selah,0,,10_0414
+10,Weekday,R10weekday_FiringRange_T03,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T04,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T05,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T06,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T07,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T08,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_FiringRange_T09,North Yakima/Selah,0,,10_0414_firingrange
+10,Weekday,R10weekday_noNorthPark_T03,Yakima Transit Center,0,,R10_noNPark
+10,Weekday,R10weekday_noNorthPark_T04,Yakima Transit Center,0,,R10_noNPark
+10,Saturday,10_Sat_T03,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T04,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T05,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T06,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T07,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T08,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T09,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T10,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_T11,North Yakima/Selah,0,,10_0414
+10,Saturday,10_Sat_1815_T03,North Yakima/Selah,0,,R10_1815_sat
+11,wkday_0323,R11_2CWU_T01,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2CWU_T03,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2CWU_T04,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2CWU_T05,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2CWU_T06,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2CWU_T07,C.W.U. Ellensburg,0,,R11
+11,wkday_0323,R11_2Yak_T01,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_0323,R11_2Yak_T03,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_0323,R11_2Yak_T04,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_0323,R11_2Yak_T05,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_0323,R11_2Yak_T06,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_0323,R11_2Yak_T07,Yakima Transit Center/Airport,1,,R11_2Yak
+11,Weekday_seasonal_CWU_032315,R11_2CWU_midday_T01,C.W.U. Ellensburg,0,,R11
+11,Weekday_seasonal_CWU_032315,R11_2Yak_midday_return_T01,Yakima Transit Center/Airport,1,,R11_2Yak
+11,wkday_11_0322,R11_ends0322_nb_T01,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_nb_T03,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_nb_T04,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_nb_T05,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_nb_T06,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_nb_T07,C.W.U. Ellensburg,0,,R11_0322
+11,wkday_11_0322,R11_ends0322_sb_T01,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,wkday_11_0322,R11_ends0322_sb_T03,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,wkday_11_0322,R11_ends0322_sb_T04,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,wkday_11_0322,R11_ends0322_sb_T05,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,wkday_11_0322,R11_ends0322_sb_T06,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,wkday_11_0322,R11_ends0322_sb_T07,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+11,Weekday_seasonal_CWU_0322,R11_midday_0322_sb_T01,C.W.U. Ellensburg,0,,R11_0322
+11,Weekday_seasonal_CWU_0322,R11_midday_0322_nb_T01,Yakima Transit Center/Airport,1,,R11_2Yak_0322
+6,Weekday,R6S_T01,Fair Ave.,0,s1,6S
+6,Weekday,R6S_T03,Fair Ave.,0,s2,6S
+6,Weekday,R6S_T04,Fair Ave.,0,s3,6S
+6,Weekday,R6S_T05,Fair Ave.,0,s4,6S
+6,Weekday,R6S_T06,Fair Ave.,0,s5,6S
+6,Weekday,R6S_T07,Fair Ave.,0,s6,6S
+6,Weekday,R6S_T08,Fair Ave.,0,s7,6S
+6,Weekday,R6S_T09,Fair Ave.,0,s8,6S
+6,Weekday,R6S_T11,Fair Ave.,0,s10,6S
+6,Weekday,R6S_T13,Fair Ave.,0,s12,6S
+6,Weekday,R6S_T14,Fair Ave.,0,s13,6S
+6,Weekday,R6S_T15,Fair Ave.,0,s14,6S
+6,Weekday,R6S_T16,Fair Ave.,0,s15,6S
+6,Weekday,R6S_T17,Fair Ave.,0,s16,6S
+6,Weekday,R6S_T18,Fair Ave.,0,s17,6S
+6,Weekday,R6S_T19,Fair Ave.,0,s18,6S
+6,Weekday,R6S_T20,Fair Ave.,0,s19,6S
+6,Weekday,R6S_T21,Fair Ave.,0,s20,6S
+6,Weekday,R6S_T22,Fair Ave.,0,s21,6S
+6,Weekday,R6S_T23,Fair Ave.,0,s22,6S
+6,Saturday,R6S_Sat_T01,Fair Ave.,0,s1,6S
+6,Saturday,R6S_Sat_T03,Fair Ave.,0,s2,6S
+6,Saturday,R6S_Sat_T04,Fair Ave.,0,s3,6S
+6,Saturday,R6S_Sat_T05,Fair Ave.,0,s4,6S
+6,Saturday,R6S_Sat_T06,Fair Ave.,0,s5,6S
+6,Saturday,R6S_Sat_T07,Fair Ave.,0,s6,6S
+6,Saturday,R6S_Sat_T08,Fair Ave.,0,s7,6S
+6,Saturday,R6S_Sat_T09,Fair Ave.,0,s8,6S
+6,Saturday,R6S_Sat_T10,Fair Ave.,0,s9,6S
+6,Saturday,R6S_Sat_T11,Fair Ave.,0,s10,6S
+6,Sunday,R6S_Sun_T01,Fair Ave.,0,sun1,6S
+6,Sunday,R6S_Sun_T03,Fair Ave.,0,sun2,6S
+6,Sunday,R6S_Sun_T04,Fair Ave.,0,sun3,6S
+6,Sunday,R6S_Sun_T05,Fair Ave.,0,sun4,6S
+6,Sunday,R6S_Sun_T06,Fair Ave.,0,sun5,6S
+6,Sunday,R6S_Sun_T07,Fair Ave.,0,sun6,6S
+6,Sunday,R6S_Sun_T08,Fair Ave.,0,sun7,6S

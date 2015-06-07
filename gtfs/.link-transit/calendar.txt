@@ -1,0 +1,9 @@
+service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+749A2475,Saturday,0,0,0,0,0,1,0,20130101,20160101
+748A2475,Monday-Friday,1,1,1,1,1,0,0,20130101,20160101
+753A2518,Weekend Ski Service,0,0,0,0,0,1,1,20150102,20150426
+808A2475,Monday-Saturday,1,1,1,1,1,1,0,20130101,20160101
+1014A2475,Monday-Saturday,1,1,1,1,1,1,0,20130101,20160101
+1398A2522,Ski Service (Mon Fri),1,0,0,0,1,0,0,20150216,20150216
+1398A2521,Ski Service (Mon Fri),1,0,0,0,1,0,0,20150119,20150119
+1398A2520,Ski Service (Mon Fri),1,0,0,0,1,0,0,20150102,20150102

@@ -1,0 +1,2 @@
+﻿feed_id,feed_publisher_name,feed_publisher_url,feed_lang,feed_version,feed_license
+rivercitiestransit-wa-us,Trillium Solutions Inc.,http://www.trilliumtransit.com,en,USA-Pacific: 13-Feb-2015 17:40,"

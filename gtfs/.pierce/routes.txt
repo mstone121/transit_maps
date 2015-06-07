@@ -1,0 +1,53 @@
+agency_id,route_id,route_short_name,route_long_name,route_type
+3,1,1,6th Ave / Pacific Ave,3
+3,10,10,Pearl Street,3
+3,100,100,Purdy Gig Harbor TCC,3
+3,101,101,Gig Harbor Trolley Service,3
+3,102,102,Purdy Gig Harbor Tacoma Expre,3
+3,11,11,Pt. Defiance,3
+3,13,13,N. 30th Street,3
+3,14,14,N.Proctor District,3
+3,16,16,UPS- TCC,3
+3,2,2,Bridgeport / 19th,3
+3,202,202,72nd Street,3
+3,206,206,Pacific Hwy/Tillicum/Ft. Lewi,3
+3,212,212,Steilacoom,3
+3,214,214,Washington,3
+3,28,28,S 12TH ST,3
+3,3,3,Lakewood/Tacoma,3
+3,300,300,S Tacoma Way,3
+3,4,4,112th St,3
+3,400,400,Puyallup/DowntownTacoma,3
+3,402,402,Meridian/Federal Way,3
+3,409,409,Puyallup/72nd,3
+3,41,41,Portland Ave,3
+3,42,42,McKinley Ave,3
+3,425,425,Puyallup Connector,3
+3,45,45,Yakima,3
+3,48,48,Sheridan M St,3
+3,495,495,South Hill Mall/Puyallup Soun,3
+3,497,497,Lakeland Hill connector,3
+3,500,500,Federal Way,3
+3,501,501,Milton Fedral way,3
+3,503,503,Fife to Puyallup connector,3
+3,504,504,Milton edgewood,3
+3,51,51,Union Ave,3
+3,52,52,TCC Tac Mall,3
+3,53,53,University Place,3
+3,54,54,38th St,3
+3,55,55,Parkland Tac Mall,3
+3,56,56,56th St,3
+3,57,57,Tacoma Mall,3
+3,62,62,N.E Tacoma,3
+40,560,560,Bellevue - Sea-Tac - W. Seattle,3
+ST,566,566,Auburn - Overlake,3
+40,567,567,Kent - Overlake,3
+ST,574,574,Lakewood - SeaTac,3
+ST,577,577,Federal Way - Seattle,3
+ST,578,578,Puyallup - Seattle,3
+ST,586,586,Tacoma - U. District,3
+ST,590,590,Tacoma - Seattle,3
+ST,592,592,Olympia/DuPont - Seattle,3
+ST,594,594,Lakewood - Seattle,3
+ST,595,595,Gig Harbor - Seattle,3
+40,596,596,Bonney Lake - Sumner,3

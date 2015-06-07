@@ -1,0 +1,8 @@
+﻿agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+226,1402,33,,,3,,1A5534,FFFFFF
+226,1398,56,,,3,,064371,FFFFFF
+226,1403,57,,,3,,EB4B1D,FFFFFF
+226,1400,32,,,3,,7D3140,FFFFFF
+226,1401,31,,,3,,2B2626,FFFFFF
+226,1399,44,,,3,,AD388B,FFFFFF
+226,1404,45,,,3,http://rctransit.org/systemmap/route-45/,60472C,FFFFFF

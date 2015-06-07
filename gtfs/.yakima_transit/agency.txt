@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url
+YT,Yakima Transit,http://www.yakimatransit.org,America/Los_Angeles,en,(509) 575-6175,http://www.yakimatransit.org/fares/

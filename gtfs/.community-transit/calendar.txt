@@ -1,0 +1,8 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+14SEP-Saturday,0,0,0,0,0,1,0,20150607,20150926
+14SEP-Sunday,0,0,0,0,0,0,1,20150607,20150926
+14SEP-Weekday,1,1,1,1,1,0,0,20150607,20150926
+15FEB-Weekday,1,1,1,1,1,0,0,20150607,20150926
+15JUN-Saturday,0,0,0,0,0,1,0,20150607,20150926
+15JUN-Sunday,0,0,0,0,0,0,1,20150607,20150926
+15JUN-Weekday,1,1,1,1,1,0,0,20150607,20150926

@@ -1,0 +1,14 @@
+route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+15,"411C","Camano Island - Mt. Vernon","",3,,,
+32,"3","East Oak Harbor/Sleeper Rd","",3,,0000cc,ffffff
+56,"2C","East Route Camano","",3,,00ffff,ffffff
+66,"1C","Camano Island West Route","",3,,00ff00,ffffff
+2,"8","Scatchet Head","",3,,990099,ffffff
+3,"10","Oak Harbor City Shuttle - East","",3,,990000,ffffff
+4,"1","Clinton/Oak Harbor & Oak Harbor/Clinton","",3,,ff0000,ffffff
+6,"411W","Oak Harbor - Deception Pass -  March's Point","",3,,,
+9,"2","West Oak Harbor/Crosby Road","",3,,cccc00,ffffff
+14,"3C","Terry's Corner - Stanwood","",3,,cc0099,ffffff
+24,"6","West Beach/Coupeville Ferry","",3,,ff6600,ffffff
+70,"7","Langley Loop","",3,,,
+75,"11","Route 11 Oak Harbor City Shuttle","",3,,,

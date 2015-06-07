@@ -1,0 +1,12 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,YT,1,Summitview / Lincoln,,3,,75BAFF,000000
+2,YT,2,Tieton / Nob Hill,,3,,FF8000,FFFFFF
+3,YT,3,Mead / Fruitvale,,3,,D50000,FFFFFF
+4,YT,4,Fruitvale / Mead,,3,,FF8080,FFFFFF
+5,YT,5,Nob Hill / Tieton,,3,,FFBB77,000000
+6,YT,6,Fair Ave./No. 4th St.,,3,,993300,FFFFFF
+7,YT,7,40th Ave. / Washington,,3,,006600,FFFFFF
+8,YT,8,Lincoln / Summitview,,3,,0000FF,FFFFFF
+9,YT,9,1st Street / Washington,,3,,00F279,000000
+10,YT,10,Selah,,3,,B000B0,FFFFFF
+11,YT,11,Ellensburg,,3,,FFCC00,000000

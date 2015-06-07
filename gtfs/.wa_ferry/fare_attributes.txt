@@ -1,0 +1,9 @@
+fare_id,price,currency_type,payment_method,transfers,transfer_duration
+CSR,7.70,USD,1,0,
+SSR,5.00,USD,1,0,
+MCR,4.65,USD,1,0,
+PTCR,3.10,USD,1,0,
+FSR,5.95,USD,1,0,
+ASJIR,12.45,USD,1,0,
+SJIR,0.00,USD,1,0,
+EBR,0.00,USD,1,0,

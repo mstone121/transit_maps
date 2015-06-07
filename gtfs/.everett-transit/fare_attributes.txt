@@ -1,0 +1,7 @@
+fare_id,price,currency_type,payment_method,transfers
+ORCA Youth,27.0,USD,0,
+Reduced Fare,0.25,USD,0,0
+Adult,1.0,USD,0,0
+ORCA Adult,36.0,USD,0,
+Commuter,2.0,USD,0,0
+Youth,0.75,USD,0,0

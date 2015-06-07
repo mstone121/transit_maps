@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_phone,agency_fare_url,agency_lang
+226,RiverCities Transit,http://rctransit.org,America/Los_Angeles,360.442.5663,http://rctransit.org/riderinfo/fares-and-passes/,en
