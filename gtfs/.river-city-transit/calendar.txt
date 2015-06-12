@@ -1,3 +1,0 @@
-service_id,service_name,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-1113A2081,Year-round calendar (Mon-Fri),1,1,1,1,1,0,0,20140101,20160101
-1114A2081,Year-round calendar (Sat),0,0,0,0,0,1,0,20140101,20160101

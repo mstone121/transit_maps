@@ -1,7 +1,0 @@
-fare_id
-Adult
-Youth
-Reduced Fare
-ORCA Adult
-ORCA Youth
-Commuter
