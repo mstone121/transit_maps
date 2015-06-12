@@ -19,19 +19,15 @@ function initialize() {
   
   map = new google.maps.Map(mapCanvas, mapOptions);
   
-  var transitLayer = new google.maps.TransitLayer();
+  //var transitLayer = new google.maps.TransitLayer();
+  //transitLayer.setMap(map);
+
+  var transitLayer = new google.maps.KmlLayer({
+    url: 'all-data.kml'
+  });
+
   transitLayer.setMap(map);
 
-  map.set('styles', [
-    {
-      featureType: 'transit.line',
-      elementType: 'geometry',
-      stylers: [
-        { color: '#3399FF' },
-        { weight: 1.5 }
-      ]
-    }
-  ]);
 
   // Event Handlers
   google.maps.event.addListener(map, 'zoom_changed', function() {
@@ -63,7 +59,7 @@ function initialize() {
     document.getElementById("avg-px").innerHTML=('Meters per pixel: ' + avg_px);
 
     // Update line width
-    set_transit_line_width(1000 / avg_px);
+    //set_transit_line_width(1000 / avg_px);
   });
 }
 
