@@ -4,8 +4,8 @@ import json
 # Vars
 NAME = "Transit Shapes"
 DESC = "Shapes of Transit Routes"
-COLOR_LINE = "7f00ffff"
-COLOR_POLY = "7f00ff00"
+COLOR_LINE = "ffff0000"
+COLOR_POLY = "ff0000ff"
 WIDTH = "4"
 
 FILENAME = "all-data-export.txt"
@@ -51,9 +51,9 @@ def createPlacemark(name, style_url, coords):
     appendNew('styleUrl', style_url, placemark)
 
     line_string = ET.Element('LineString')
-    appendNew('extrude', '1', line_string)
-    appendNew('tessellate', '1', line_string)
-    appendNew('altitudeMode', 'relativeToGround', line_string)
+    #appendNew('extrude', '1', line_string)
+    #appendNew('tessellate', '1', line_string)
+    appendNew('altitudeMode', 'relative', line_string)
     appendNew('coordinates', coords, line_string)
 
     placemark.append(line_string)
@@ -64,32 +64,43 @@ def createPlacemark(name, style_url, coords):
 
 # Main Code
 
+colors = ["#FF0000", "#0000FF", "#800080", "#FFFF00", "#FFA500", "#008000", "#00FFFF", "#00FF00", "#000000", "#A52A2A", "#808000", "#FF00FF", "#FFFFFF", "#0000A0", "#ADD8E6"]
+c_text = ["red", "blue", "purple", "yellow", "orange", "green", "cyan", "lime", "black", "brown", "olive", "magenta", "white", "dark blue", "light blue"]
+
 root = ET.Element('kml', attrib=KML_ATTRB)
 document = ET.Element('Document')
 root.append(document)
 
 appendNew('name', NAME, document)
 appendNew('description', DESC, document)
-document.append(createStyle(COLOR_LINE, COLOR_POLY, WIDTH, "#style_one"))
 
-agencys = ['Island_Transit']
+styles = []
+i = 0
 
 f = open(FILENAME, 'r').read()
 data = json.loads(f)
 
 for agency in data:
-    if agency in agencys:
-        print("Processing agency " + agency)
+    color = colors[i]
+    
+    print("Processing agency " + agency + "(color: " + c_text[i] + ")")
+    styles.append(createStyle(color, color, WIDTH, "#" + agency))
 
-        for route in data[agency]:
-            coords  = ""
-            for point in data[agency][route]:
-                coords += point[0] + "," + point[1] + " "
+    i += 1
 
-                
-            placemark = createPlacemark(agency + "." + route, "#style_one", coords)
-            document.append(placemark)
+    for route in data[agency]:
+        coords  = ""
+        for point in data[agency][route]:
+            coords += point[1] + "," + point[0] + " "
 
+        placemark = createPlacemark(agency + "." + route, "#" + agency, coords)
+        document.append(placemark)
+
+
+for style in styles:
+    document.append(style)
+
+    
 et = ET.ElementTree(root)
 et.write(OUTPUT)
 
